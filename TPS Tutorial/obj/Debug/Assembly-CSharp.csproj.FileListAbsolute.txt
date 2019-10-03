@@ -1,0 +1,42 @@
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\obj\Debug\Assembly-CSharp.dll
+C:\Users\Soloman\Documents\Unity Games\TPS Tutorial\obj\Debug\Assembly-CSharp.pdb
+C:\Users\sxnor\Documents\TPS Tutorial\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\sxnor\Documents\TPS Tutorial\obj\Debug\Assembly-CSharp.dll
+C:\Users\sxnor\Documents\TPS Tutorial\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\sxnor\Documents\TPS Tutorial\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\sxnor\Documents\TPS Tutorial\Temp\bin\Debug\UnityEditor.dll
+C:\Users\sxnor\Documents\TPS Tutorial\Temp\bin\Debug\UnityEngine.dll
+C:\Users\sxnor\Documents\TPS Tutorial\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\sxnor\Documents\TPS Tutorial\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\sxnor\Documents\TPS Tutorial\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\sxnor\Documents\TPS Tutorial\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\sxnor\Documents\TPS Tutorial\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\sxnor\Documents\TPS Tutorial\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\sxnor\Documents\TPS Tutorial\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\sxnor\Documents\TPS Tutorial\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\sxnor\Documents\TPS Tutorial\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\sxnor\Documents\TPS Tutorial\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\sxnor\Documents\TPS Tutorial\Temp\bin\Debug\UnityEngine.xml
+C:\Users\sxnor\Documents\TPS Tutorial\Temp\bin\Debug\UnityEditor.xml
+C:\Users\sxnor\Documents\TPS Tutorial\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\sxnor\Documents\TPS Tutorial\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\sxnor\Documents\TPS Tutorial\obj\Debug\Assembly-CSharp.pdb
